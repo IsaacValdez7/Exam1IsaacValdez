@@ -1,0 +1,73 @@
+body{
+<<<<<<< HEAD
+    margin: 0;
+    padding: 0;
+    padding-top: 3%;
+    background-color: white;
+    color: black;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.texto
+{
+   padding: 10px 5px 10px 5px;
+   color: rgba(54,11,11,0.726); 
+}
+.texto2
+{
+    margin: 0;
+    padding: 0;
+    margin-top: -4%;
+    margin-left:65%;
+    color: rgba(54,11,11,0.726); 
+    font-size: 30px;  
+}
+
+/*Moto 4 Galaxy S5*/
+@media screen and(min-width:320)and(max-width:564px)
+{
+    .texto
+    {
+       padding: 10px 5px 10px 5px;
+       color: rgba(54,11,11,0.726); 
+    }
+    .texto2
+    {
+width: 100%;
+    }
+ 
+}
+=======
+    margin-left: 2%;
+    margin-right: 2%;
+    width:96%;
+}
+.home-right
+{
+    text-align: right;
+    padding-right: 3%;
+    margin-top: -3%;
+    font-size: 2vw;
+}
+.home-left{
+    padding-left: 3%;
+    font-size: 2vw;
+}
+
+.texto1
+{
+    margin-left: 2%;
+    margin-right: 2%;
+    margin:1%;
+    margin-top: -10px;
+    color: orangered;
+    font-size: 10vw;
+    text-align: center;
+}
+.texto
+{
+    font-size: 50px;
+    margin-left: 2%;
+    margin-top: 5%;
+}
+>>>>>>> 363eef0c3386d554e9439765d4874bdd127b64d9

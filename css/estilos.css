@@ -1,0 +1,72 @@
+<<<<<<< HEAD
+html,body
+{
+    margin: 0;
+    padding:0;
+    height: 100%;
+    width: 100%;
+}
+.fondo
+{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    padding: auto;
+    background: url(https://cdn.pixabay.com/photo/2014/10/16/09/15/lens-490806_960_720.jpg) no-repeat 50% 50%; 
+    top: 0;
+    background-size: cover;
+}
+.centrado h1{
+   margin: 0;
+   padding: 0;
+   color: white;
+   margin-left: 40%;  
+   margin-top: -30%;
+}
+.centrado h5
+{
+    margin: 0;
+    padding: 0;
+    color: white;
+    margin-left: 41%;  
+    margin-top: 2%;
+}
+.h1{
+    font-size: 50px;
+}
+.h5{
+    font-size: 50px;
+}
+.centrado a
+{
+    text-decoration: none;
+
+}
+
+
+
+
+
+    
+
+
+=======
+body
+{
+    background-image: url(../img/imagen1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Roboto',sans-serif;
+}
+.home{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 50px;
+    left: 50%;
+    position: relative;
+    top: 35%;
+    font-family: 'Roboto',sans-serif;
+}
+>>>>>>> 363eef0c3386d554e9439765d4874bdd127b64d9

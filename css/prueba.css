@@ -1,0 +1,27 @@
+body{
+    margin-left: 2%;
+    margin-right: 2%;
+    width:96%;
+}
+.home-right
+{
+    text-align: right;
+    padding-right: 3%;
+    margin-top: -3%;
+    font-size: 2vw;
+}
+.home-left{
+    padding-left: 3%;
+    font-size: 2vw;
+}
+.texto1
+{
+    margin-left: 2%;
+    margin-right: 2%;
+    margin:1%;
+    margin-top: -10px;
+    color: orangered;
+    font-size: 10vw;
+    text-align: center;
+
+}

@@ -1,0 +1,41 @@
+body{
+    margin-left: 2%;
+    margin-right: 2%;
+    width:96%;
+}
+.home-right
+{
+    text-align: right;
+    padding-right: 3%;
+    margin-top: -3%;
+    font-size: 2vw;
+}
+.home-left{
+    padding-left: 3%;
+    font-size: 2vw;
+}
+<<<<<<< HEAD
+=======
+
+.texto1
+{
+    margin-left: 2%;
+    margin-right: 2%;
+    margin:1%;
+    margin-top: -10px;
+    color: orangered;
+    font-size: 10vw;
+    text-align: center;
+}
+.texto
+{
+    font-size: 50px;
+    margin-left: 100px;
+}
+.menu
+{
+    font-size: 25px;
+    font-weight: 100;
+    padding-right: 10px;
+}
+>>>>>>> 363eef0c3386d554e9439765d4874bdd127b64d9
